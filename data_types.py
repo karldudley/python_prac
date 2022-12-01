@@ -43,6 +43,7 @@ my_dictionary['age'] = 20
 print(my_dictionary)
 
 # TUPLE - like a list but it is immutable (use if the data shouldn't be changed after creation)
+# they are faster than lists
 my_tuple = ('banana', 'kiwi', 'apple', 'orange')
 print(type(my_tuple))
 
